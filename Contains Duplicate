@@ -1,0 +1,8 @@
+Find duplicate element
+
+Three approaches:
+Brute force: easy iterate over the list and find out another copy
+
+Sort then search: As the name suggests
+
+Use a "set": Best solution, just create a set and check if the element is present in the set or not. 
